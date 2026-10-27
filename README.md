@@ -1,1 +1,9 @@
 # Advanced_SQL_Ecommerce_Analysis
+
+business_summary.csv
+category_sales.csv
+top_products.csv
+customer_analysis.csv
+monthly_analysis.csv
+product_ranking.csv
+region_analysis.csv
